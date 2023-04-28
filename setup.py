@@ -18,16 +18,16 @@ with open("discord_games/__init__.py") as f:
 
 setuptools.setup(
     name="discord_games",
-    author="Tom-the-Bomb",
+    author="GauravDev1921",
     version=version,
     description="A library to help users easily implement games within their discord bot",
     long_description=readme,
     long_description_content_type="text/markdown",
     license="MIT",
-    url="https://github.com/Tom-the-Bomb/Discord-Games",
+    url="https://github.com/GauravDev1921/Discord-Games",
     project_urls={
-        "Repository": "https://github.com/Tom-the-Bomb/Discord-Games",
-        "Issue tracker": "https://github.com/Tom-the-Bomb/Discord-Games/issues",
+        "Repository": "https://github.com/GauravDev1921/Discord-Games",
+        "Issue tracker": "https://github.com/GauravDev1921/Discord-Games/issues",
     },
     classifiers=[
         "Intended Audience :: Developers",
