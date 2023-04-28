@@ -15,7 +15,7 @@ $ py -m pip install git+https://github.com/GauravDev1921/Discord-Games
     - Ex: `await game.start(ctx)` (ctx is always a required argument, rest are optional)<br/>
 - refer to the source for more info on the arguments you *could* pass
 
-- #### read the examples [here](https://github.com/GauravDev1921/Discord-Games)<br/>
+- #### read the examples [here]([https://github.com/GauravDev1921/Discord-Games](https://github.com/GauravDev1921/Discord-Games/blob/main/examples/examples.py))<br/>
 ---
 ### Documentation
 Coming soon...!
