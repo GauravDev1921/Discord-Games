@@ -3,7 +3,7 @@
 This is a simple package for implementing **games** into your [discord.py](https://github.com/Rapptz/discord.py) bot<br/>
 You can install it with:
 ```bash
-$ py -m pip install git+https://github.com/GauravDev1921/Discord-Games
+$ pip install git+https://github.com/GauravDev1921/Discord-Games
 ```
 ---
 ## The basic usage of the library goes like this
