@@ -13,7 +13,7 @@ $ pip install git+https://github.com/GauravDev1921/Discord-Games
     - Ex: `game = Wordle()`
 - Call the start method (with the appropriate arguments) to start the game
     - Ex: `await game.start(ctx)` (ctx is always a required argument, rest are optional)<br/>
-- refer to the source for more info on the arguments you *could* pass
+- Refer to the source for more info on the arguments you *could* pass
 
 - #### read the examples [here]([https://github.com/GauravDev1921/Discord-Games](https://github.com/GauravDev1921/Discord-Games/blob/main/examples/examples.py))<br/>
 ---
