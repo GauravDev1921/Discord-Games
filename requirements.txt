@@ -1,0 +1,5 @@
+english-words==1.1.0
+chess
+akinator.py
+Pillow
+typing_extensions
